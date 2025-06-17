@@ -1,0 +1,44 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #F4EDE4;
+  color: #2F2F2F;
+  margin: 0;
+  padding: 0;
+}
+h1, h2, h3 {
+  color: #3C6E71;
+}
+.hero {
+  text-align: center;
+  padding: 4rem 2rem;
+  background-color: #FFFDF9;
+}
+.tagline {
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+.about, .books, .signup {
+  padding: 3rem 2rem;
+  background-color: #F4EDE4;
+}
+.book {
+  margin-bottom: 2rem;
+  border-left: 4px solid #DDBEA9;
+  padding-left: 1rem;
+}
+.btn, a {
+  background-color: #3C6E71;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 1rem;
+}
+.footer {
+  text-align: center;
+  padding: 2rem;
+  background-color: #FFFDF9;
+  font-size: 0.875rem;
+}
